@@ -9,3 +9,6 @@ print("Hasil pengurangan:", hasil_kurang)
 
 hasil_kali = angka1 * angka2
 print("Hasil perkalian:", hasil_kali)
+
+hasil_bagi = angka1 / angka2
+print("Hasil pembagian:", hasil_bagi)
